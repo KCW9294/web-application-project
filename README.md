@@ -1,5 +1,8 @@
 # ChatGPT를 활용한 리더 GROW 코칭 실습 서비스
 
+![18조  3기 18조 썸네일](https://github.com/KCW9294/web-application-project/assets/100820366/f488e9e4-1d23-4e09-8a66-36437c2da125)
+
+![18조  3기 18조 소개이미지](https://github.com/KCW9294/web-application-project/assets/100820366/8b2f003a-0998-4055-931f-0268249d1811)
 
 ### 주제
 ChatGPT를 활용한 리더 GROW 코칭 실습 서비스
@@ -96,12 +99,7 @@ ChatGPT를 활용한 리더 GROW 코칭 실습 서비스
 
 ---
 ### 서비스 FLOW
-![그림2](https://github.com/KCW9294/web-application-project/assets/100820366/e2c5112e-b554-4eda-af45-4b329d450894)
+![제목 없음](https://github.com/KCW9294/web-application-project/assets/100820366/ddfa0de4-68ad-4919-a411-f69176e29cfa)
 
 
-### 관리자 FLOW
-![image](https://github.com/AIVLE-School-Third-Big-Project/kt_05_18/assets/116613061/09c0de51-639c-45c9-b87c-c5e5e6e815c1)
----
-### 서비스 UI/UX
-![image](https://github.com/AIVLE-School-Third-Big-Project/kt_05_18/assets/116613061/110e092d-74d3-4e7f-bf12-f93787678a5b)
 
