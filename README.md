@@ -4,6 +4,9 @@
 
 ![18조  3기 18조 소개이미지](https://github.com/KCW9294/web-application-project/assets/100820366/8b2f003a-0998-4055-931f-0268249d1811)
 
+### 서비스 FLOW
+![제목 없음](https://github.com/KCW9294/web-application-project/assets/100820366/ddfa0de4-68ad-4919-a411-f69176e29cfa)
+
 ### 주제
 ChatGPT를 활용한 리더 GROW 코칭 실습 서비스
 
@@ -96,10 +99,5 @@ ChatGPT를 활용한 리더 GROW 코칭 실습 서비스
 * 질문 분석에 따른 결과 추출 
     * 각 질문 마다 피드백이 필요한 부분을 추출하여 개선 방안 등 코칭 
 * 가상 상대의 목소리 선택  
-
----
-### 서비스 FLOW
-![제목 없음](https://github.com/KCW9294/web-application-project/assets/100820366/ddfa0de4-68ad-4919-a411-f69176e29cfa)
-
 
 
